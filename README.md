@@ -1,5 +1,5 @@
 # Cheatsheet
-my haxxing cheatsheet
+my uber l33t haxxing cheatsheet
 
 # Conda
 conda install <package> ¦ install some packeage
@@ -15,4 +15,8 @@ echo "Text" ¦ prints text to the command line
 echo "$variable" ¦ prints a variable's value to the command line
 read variable ¦ read user input and store it as variable
 while [  True ]; do 
-done ¦
+done ¦  while loop
+if [ "$choice" = 1 ]; then
+elif [ "$choice" = 2 ]; then
+else
+fi ¦ if loop
