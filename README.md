@@ -7,7 +7,9 @@ conda env export > exportfile.yaml ¦ export environment to a file
   
 # bash
 ls  ¦ show current folder content
+
 ls -a ¦ include hidden files (.hidden)
+
 cd change directory
 cd ~ ¦ change to home 
 pwd ¦ show current working directory
