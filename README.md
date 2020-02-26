@@ -22,3 +22,22 @@ if [ "$choice" = 1 ]; then
 elif [ "$choice" = 2 ]; then
 else
 fi ¦ if loop
+
+
+# ML Pipeline
+my basic data science / ML workflow. 
+
+read data
+get (visual) overview
+separate categorrical / numeric
+scale numeric, hotEncode categorical
+impute (create missing data)
+make polynomeFeatures
+fit linear model
+make R2, score, cv score, ....
+
+plot KPIs, like scores, coefficients versus iterations, parameters
+
+make conclusions/ select features
+repeat
+
