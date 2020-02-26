@@ -31,8 +31,8 @@ read data
 get (visual) overview
 separate categorrical / numeric
 scale numeric, hotEncode categorical
-impute (create missing data)
-make polynomeFeatures
+check for & treat missing data (drop, impute,...)
+check for & evtl. make polynomeFeatures
 fit linear model
 make R2, score, cv score, ....
 
